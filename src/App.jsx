@@ -93,7 +93,7 @@ function App() {
                 />
                 <Tile
                     containsImage={false}
-                    tileHeading="The brand"
+                    tileHeading="Our story"
                 >
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi earum optio pariatur quaerat voluptates. Adipisci atque consequatur, cupiditate dolor excepturi laboriosam maxime natus neque nesciunt, saepe temporibus ut! Tempora, velit?</p>
                 </Tile>
